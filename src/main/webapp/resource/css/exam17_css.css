@@ -1,0 +1,33 @@
+/* 선택자 {
+	속성:값;
+	속성:값;
+	...
+} */
+
+/* 태그이름 */
+button {
+	margin-bottom:10px;
+}
+
+/* id */
+#container {
+	margin-bottom: 20px; 
+	padding: 10px; 
+	border-top: 1px solid black
+}
+
+/* id */
+#div1 {
+	width:100px;
+	height:100px;
+	border:1px solid orange; 
+	display:inline-block
+}
+
+/* class */
+.class1 {
+	width:100px;
+	height:100px;
+	border:1px solid orange;
+	display:inline-block
+}
